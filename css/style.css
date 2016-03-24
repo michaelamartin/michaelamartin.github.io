@@ -65,7 +65,7 @@
 }
 
 #about-img {
-  background-image: url("http://revelwallpapers.net/d/7A484276696F47733338533865613658314A467173717A5635715A686D773D3D/grass_drops_background_dark.jpg");
+  background-image: url("../img/grass_background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -75,7 +75,7 @@
 }
 
 #portfolio-img {
-  background-image: url("http://static1.squarespace.com/static/5241e8cee4b0c8e9efdc1fd7/t/55e7e772e4b03bba84ec49c0/1441261429176/woodgrain-dark.jpg?format=2500w");
+  background-image: url("../img/woodgrain_dark.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -91,7 +91,7 @@
 }
 
 .rice-paper {
-  background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/concrete_seamless.png);
+  background-image: url(../img/rice_paper_seamless.png);
 }
 
 @media(max-width:767px) {
