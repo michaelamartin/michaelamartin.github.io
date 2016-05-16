@@ -1,0 +1,35 @@
+h1 {
+  color: black;
+  font-family: Cambria;
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  
+}
+
+#timeline{
+  padding: 1em 0em 0.25em 0em;
+}
+
+span{
+  margin-left: 2em;
+}
+
+#external p{
+  text-align: center;
+  padding-top: 2em;
+}
+
+#inner {
+  margin: 0em 0.5em 0em 0.5em;
+}
+
+
+.thumbnail>img {
+  width: 100%;
+}
